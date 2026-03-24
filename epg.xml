@@ -1,385 +1,289 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="War Machine (2026)">
-<display-name>War Machine (2026)</display-name>
+<channel id="war_machine_(2026)">
+<display-name lang="id">War Machine (2026)</display-name>
 </channel>
-<channel id="The House on Haunted Grounds (2026)">
-<display-name>The House on Haunted Grounds (2026)</display-name>
+<channel id="the_house_on_haunted_grounds_(2026)">
+<display-name lang="id">The House on Haunted Grounds (2026)</display-name>
 </channel>
-<channel id="Subedaar (2026)">
-<display-name>Subedaar (2026)</display-name>
+<channel id="subedaar_(2026)">
+<display-name lang="id">Subedaar (2026)</display-name>
 </channel>
-<channel id="Devagudi (2026)">
-<display-name>Devagudi (2026)</display-name>
+<channel id="devagudi_(2026)">
+<display-name lang="id">Devagudi (2026)</display-name>
 </channel>
-<channel id="Bring the Law (2026)">
-<display-name>Bring the Law (2026)</display-name>
+<channel id="bring_the_law_(2026)">
+<display-name lang="id">Bring the Law (2026)</display-name>
 </channel>
-<channel id="The Bluff (2026)">
-<display-name>The Bluff (2026)</display-name>
+<channel id="the_bluff_(2026)">
+<display-name lang="id">The Bluff (2026)</display-name>
 </channel>
-<channel id="Shelter (2026)">
-<display-name>Shelter (2026)</display-name>
+<channel id="shelter_(2026)">
+<display-name lang="id">Shelter (2026)</display-name>
 </channel>
-<channel id="Vanaveera (2026)">
-<display-name>Vanaveera (2026)</display-name>
+<channel id="vanaveera_(2026)">
+<display-name lang="id">Vanaveera (2026)</display-name>
 </channel>
-<channel id="Reckless (2026)">
-<display-name>Reckless (2026)</display-name>
+<channel id="reckless_(2026)">
+<display-name lang="id">Reckless (2026)</display-name>
 </channel>
-<channel id="Lazarus: The Awakening (2026)">
-<display-name>Lazarus: The Awakening (2026)</display-name>
-</channel>
-<channel id="One Mile (2026)">
-<display-name>One Mile (2026)</display-name>
-</channel>
-<channel id="Chatha Pacha (2026)">
-<display-name>Chatha Pacha (2026)</display-name>
-</channel>
-<channel id="Hellfire (2026)">
-<display-name>Hellfire (2026)</display-name>
-</channel>
-<channel id="Mercy (2026)">
-<display-name>Mercy (2026)</display-name>
-</channel>
-<channel id="Hands (2026)">
-<display-name>Hands (2026)</display-name>
-</channel>
-<channel id="Wild London (2026)">
-<display-name>Wild London (2026)</display-name>
-</channel>
-<channel id="State of Fear (2026)">
-<display-name>State of Fear (2026)</display-name>
-</channel>
-<channel id="Kamen Rider Eins with Girls Remix (2026)">
-<display-name>Kamen Rider Eins with Girls Remix (2026)</display-name>
-</channel>
-<channel id="Vaa Vaathiyaar (2026)">
-<display-name>Vaa Vaathiyaar (2026)</display-name>
-</channel>
-<channel id="TTT: Thalaivar Thambi Thalaimaiyil (2026)">
-<display-name>TTT: Thalaivar Thambi Thalaimaiyil (2026)</display-name>
-</channel>
-<channel id="Parasakthi (2026)">
-<display-name>Parasakthi (2026)</display-name>
-</channel>
-<channel id="Mana ShankaraVaraprasad Garu (2026)">
-<display-name>Mana ShankaraVaraprasad Garu (2026)</display-name>
-</channel>
-<channel id="Ikkis (2026)">
-<display-name>Ikkis (2026)</display-name>
-</channel>
-<channel id="The Raja Saab (2026)">
-<display-name>The Raja Saab (2026)</display-name>
-</channel>
-<channel id="The Wrecking Crew (2026)">
-<display-name>The Wrecking Crew (2026)</display-name>
-</channel>
-<channel id="Speed Faster (2026)">
-<display-name>Speed Faster (2026)</display-name>
-</channel>
-<channel id="Greenland 2: Migration (2026)">
-<display-name>Greenland 2: Migration (2026)</display-name>
-</channel>
-<channel id="Killer Whale (2026)">
-<display-name>Killer Whale (2026)</display-name>
-</channel>
-<channel id="The Rip (2026)">
-<display-name>The Rip (2026)</display-name>
-</channel>
-<channel id="The Internship (2026)">
-<display-name>The Internship (2026)</display-name>
-</channel>
-<channel id="Papa Zola: The Movie (2025)">
-<display-name>Papa Zola: The Movie (2025)</display-name>
-</channel>
-<channel id="Agent Zero (2025)">
-<display-name>Agent Zero (2025)</display-name>
-</channel>
-<channel id="Scarlet (2025)">
-<display-name>Scarlet (2025)</display-name>
-</channel>
-<channel id="Jeongbowon (the informant) (2025)">
-<display-name>Jeongbowon (the informant) (2025)</display-name>
-</channel>
-<channel id="Yoroi (2025)">
-<display-name>Yoroi (2025)</display-name>
-</channel>
-<channel id="Anaconda (2025)">
-<display-name>Anaconda (2025)</display-name>
-</channel>
-<channel id="Good Luck, Have Fun, Don't Die (2025)">
-<display-name>Good Luck, Have Fun, Don't Die (2025)</display-name>
-</channel>
-<channel id="Akaal: The Unconquered (2025)">
-<display-name>Akaal: The Unconquered (2025)</display-name>
-</channel>
-<channel id="Kraken (2025)">
-<display-name>Kraken (2025)</display-name>
-</channel>
-<channel id="Boss (2025)">
-<display-name>Boss (2025)</display-name>
-</channel>
-<channel id="Cursa (2025)">
-<display-name>Cursa (2025)</display-name>
-</channel>
-<channel id="Gold Rush Gang (2025)">
-<display-name>Gold Rush Gang (2025)</display-name>
-</channel>
-<channel id="Project Y (2025)">
-<display-name>Project Y (2025)</display-name>
-</channel>
-<channel id="In Cold Light (2025)">
-<display-name>In Cold Light (2025)</display-name>
-</channel>
-<channel id="Caught Stealing (2025)">
-<display-name>Caught Stealing (2025)</display-name>
-</channel>
-<channel id="Hijacked (2025)">
-<display-name>Hijacked (2025)</display-name>
-</channel>
-<channel id="The Shadow's Edge (Bu feng zhui ying aka) (2025)">
-<display-name>The Shadow's Edge (Bu feng zhui ying aka) (2025)</display-name>
-</channel>
-<channel id="The Forbidden City (2025)">
-<display-name>The Forbidden City (2025)</display-name>
-</channel>
-<channel id="Under a Volcano (Bajo un volcan) (2025)">
-<display-name>Under a Volcano (Bajo un volcan) (2025)</display-name>
-</channel>
-<channel id="Sisu: Road to Revenge (2025)">
-<display-name>Sisu: Road to Revenge (2025)</display-name>
-</channel>
-<channel id="Predator: Badlands (2025)">
-<display-name>Predator: Badlands (2025)</display-name>
-</channel>
-<channel id="Den of Thieves: Pantera (2025)">
-<display-name>Den of Thieves: Pantera (2025)</display-name>
-</channel>
-<channel id="Redux Redux (2025)">
-<display-name>Redux Redux (2025)</display-name>
-</channel>
-<channel id="The Handyman (The Handyman) (2025)">
-<display-name>The Handyman (The Handyman) (2025)</display-name>
-</channel>
-<channel id="Death Whisperer 3 (2025)">
-<display-name>Death Whisperer 3 (2025)</display-name>
-</channel>
-<channel id="A Hard Place (2025)">
-<display-name>A Hard Place (2025)</display-name>
-</channel>
-<channel id="The Accused (2025)">
-<display-name>The Accused (2025)</display-name>
-</channel>
-<channel id="Miraculous World: Tokyo Stellar Force (2025)">
-<display-name>Miraculous World: Tokyo Stellar Force (2025)</display-name>
-</channel>
-<channel id="96 Minutes (2025)">
-<display-name>96 Minutes (2025)</display-name>
-</channel>
-<channel id="Dhurandhar (2025)">
-<display-name>Dhurandhar (2025)</display-name>
-</channel>
-<channel id="Thieves Highway (2025)">
-<display-name>Thieves Highway (2025)</display-name>
-</channel>
-<channel id="Search for Coffin (2025)">
-<display-name>Search for Coffin (2025)</display-name>
-</channel>
-<channel id="Zootopia 2 (2025)">
-<display-name>Zootopia 2 (2025)</display-name>
-</channel>
-<channel id="Lethal Sacrifice (2025)">
-<display-name>Lethal Sacrifice (2025)</display-name>
-</channel>
-<channel id="The Rats: A Witcher Tale (2025)">
-<display-name>The Rats: A Witcher Tale (2025)</display-name>
-</channel>
-<channel id="Shambhala (2025)">
-<display-name>Shambhala (2025)</display-name>
-</channel>
-<channel id="The Real Monkey King: Bufashan (Zhen Jia Meihouwang: Bufashan) (2025)">
-<display-name>The Real Monkey King: Bufashan (Zhen Jia Meihouwang: Bufashan) (2025)</display-name>
-</channel>
-<channel id="Tere Ishk Mein (2025)">
-<display-name>Tere Ishk Mein (2025)</display-name>
-</channel>
-<channel id="Retta Thala (2025)">
-<display-name>Retta Thala (2025)</display-name>
-</channel>
-<channel id="Relentless (2025)">
-<display-name>Relentless (2025)</display-name>
-</channel>
-<channel id="Les Orphelins (The Orphans) (2025)">
-<display-name>Les Orphelins (The Orphans) (2025)</display-name>
-</channel>
-<channel id="Der Tiger (The Tank) (2025)">
-<display-name>Der Tiger (The Tank) (2025)</display-name>
-</channel>
-<channel id="Counterstrike (Contraataque) (2025)">
-<display-name>Counterstrike (Contraataque) (2025)</display-name>
-</channel>
-<channel id="Droga Donikad (2025)">
-<display-name>Droga Donikad (2025)</display-name>
-</channel>
-<channel id="Identifikatsiya (2025)">
-<display-name>Identifikatsiya (2025)</display-name>
-</channel>
-<channel id="Cursed (2025)">
-<display-name>Cursed (2025)</display-name>
-</channel>
-<channel id="Blocking the Horse (2025)">
-<display-name>Blocking the Horse (2025)</display-name>
-</channel>
-<channel id="Banduan (2025)">
-<display-name>Banduan (2025)</display-name>
-</channel>
-<channel id="Fluxx (2025)">
-<display-name>Fluxx (2025)</display-name>
-</channel>
-<channel id="Dust Bunny (2025)">
-<display-name>Dust Bunny (2025)</display-name>
-</channel>
-<channel id="Akhanda 2 (2025)">
-<display-name>Akhanda 2 (2025)</display-name>
-</channel>
-<channel id="Detective Dee: The Other Shore Flower (2025)">
-<display-name>Detective Dee: The Other Shore Flower (2025)</display-name>
-</channel>
-<channel id="Thunderbolt Rescue (2025)">
-<display-name>Thunderbolt Rescue (2025)</display-name>
-</channel>
-<channel id="Harimau Merah: Resolusi (2025)">
-<display-name>Harimau Merah: Resolusi (2025)</display-name>
-</channel>
-<channel id="120 Bahadur (2025)">
-<display-name>120 Bahadur (2025)</display-name>
-</channel>
-<channel id="Dogulu (2025)">
-<display-name>Dogulu (2025)</display-name>
-</channel>
-<channel id="The Omro Heist (2025)">
-<display-name>The Omro Heist (2025)</display-name>
-</channel>
-<channel id="Drive (2025)">
-<display-name>Drive (2025)</display-name>
-</channel>
-<channel id="Kayara (2025)">
-<display-name>Kayara (2025)</display-name>
-</channel>
-<channel id="Unseen Enemy (2025)">
-<display-name>Unseen Enemy (2025)</display-name>
-</channel>
-<channel id="Pets on a Train (Falcon Express) (2025)">
-<display-name>Pets on a Train (Falcon Express) (2025)</display-name>
-</channel>
-<channel id="Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)">
-<display-name>Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)</display-name>
-</channel>
-<channel id="Baahubali: The Epic (2025)">
-<display-name>Baahubali: The Epic (2025)</display-name>
-</channel>
-<channel id="The Ride (2025)">
-<display-name>The Ride (2025)</display-name>
-</channel>
-<channel id="Gladiator Undergound (2025)">
-<display-name>Gladiator Undergound (2025)</display-name>
-</channel>
-<channel id="Blazing Fists (Blue Fight: The Breaking Down of Young Blue Warriors) (2025)">
-<display-name>Blazing Fists (Blue Fight: The Breaking Down of Young Blue Warriors) (2025)</display-name>
-</channel>
-<channel id="Shogun's Ninja (2025)">
-<display-name>Shogun's Ninja (2025)</display-name>
-</channel>
-<channel id="K.O. (2025)">
-<display-name>K.O. (2025)</display-name>
-</channel>
-<channel id="Avatar: Fire and Ash (2025)">
-<display-name>Avatar: Fire and Ash (2025)</display-name>
-</channel>
-<channel id="GATAO: Big Brothers (2025)">
-<display-name>GATAO: Big Brothers (2025)</display-name>
-</channel>
-<channel id="Mantis aka Samagwi (2025)">
-<display-name>Mantis aka Samagwi (2025)</display-name>
-</channel>
-<channel id="JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie (2025)">
-<display-name>JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie (2025)</display-name>
-</channel>
-<channel id="Samurai Fury: Muromachi Burai (2025)">
-<display-name>Samurai Fury: Muromachi Burai (2025)</display-name>
-</channel>
-<channel id="The Great Flood (2025)">
-<display-name>The Great Flood (2025)</display-name>
-</channel>
-<channel id="Painted Bone Woman (2025)">
-<display-name>Painted Bone Woman (2025)</display-name>
-</channel>
-<channel id="A Writer's Odyssey 2 (2025)">
-<display-name>A Writer's Odyssey 2 (2025)</display-name>
-</channel>
-<channel id="Lost Horizon (2025)">
-<display-name>Lost Horizon (2025)</display-name>
-</channel>
-<channel id="Brat (2025)">
-<display-name>Brat (2025)</display-name>
-</channel>
-<channel id="The Last Gunfight (2025)">
-<display-name>The Last Gunfight (2025)</display-name>
-</channel>
-<channel id="American Warrior (2025)">
-<display-name>American Warrior (2025)</display-name>
-</channel>
-<channel id="Turbulence (2025)">
-<display-name>Turbulence (2025)</display-name>
-</channel>
-<channel id="13 Days, 13 Nights (2025)">
-<display-name>13 Days, 13 Nights (2025)</display-name>
-</channel>
-<channel id="The Running Man (2025)">
-<display-name>The Running Man (2025)</display-name>
-</channel>
-<channel id="Hunting Season (2025)">
-<display-name>Hunting Season (2025)</display-name>
-</channel>
-<channel id="Hunting Jessica Brok (2025)">
-<display-name>Hunting Jessica Brok (2025)</display-name>
-</channel>
-<channel id="Chainsaw Man - The Movie: Reze Arc (2025)">
-<display-name>Chainsaw Man - The Movie: Reze Arc (2025)</display-name>
-</channel>
-<channel id="Predator: Wastelands (2025)">
-<display-name>Predator: Wastelands (2025)</display-name>
-</channel>
-<channel id="Detective Conan: One-Eyed Flashback (2025)">
-<display-name>Detective Conan: One-Eyed Flashback (2025)</display-name>
-</channel>
-<channel id="Jujutsu Kaisen: Execution (2025)">
-<display-name>Jujutsu Kaisen: Execution (2025)</display-name>
-</channel>
-<channel id="Lone Samurai (2025)">
-<display-name>Lone Samurai (2025)</display-name>
-</channel>
-<channel id="The Legend of Hei 2 (2025)">
-<display-name>The Legend of Hei 2 (2025)</display-name>
-</channel>
-<channel id="Ternet Ninja 3 (2025)">
-<display-name>Ternet Ninja 3 (2025)</display-name>
-</channel>
-<channel id="Aaryan (2025)">
-<display-name>Aaryan (2025)</display-name>
-</channel>
-<channel id="Magik Rompak (2025)">
-<display-name>Magik Rompak (2025)</display-name>
-</channel>
-<channel id="Muzzle: City of Wolves (2025)">
-<display-name>Muzzle: City of Wolves (2025)</display-name>
-</channel>
-<channel id="Legasi: Bomba the Movie (2025)">
-<display-name>Legasi: Bomba the Movie (2025)</display-name>
-</channel>
-<channel id="The Lost Chapter: Yuki's Revenge (2025)">
-<display-name>The Lost Chapter: Yuki's Revenge (2025)</display-name>
+<channel id="lazarus:_the_awakening_(2026)">
+<display-name lang="id">Lazarus: The Awakening (2026)</display-name>
+</channel>
+<channel id="one_mile_(2026)">
+<display-name lang="id">One Mile (2026)</display-name>
+</channel>
+<channel id="chatha_pacha_(2026)">
+<display-name lang="id">Chatha Pacha (2026)</display-name>
+</channel>
+<channel id="hellfire_(2026)">
+<display-name lang="id">Hellfire (2026)</display-name>
+</channel>
+<channel id="mercy_(2026)">
+<display-name lang="id">Mercy (2026)</display-name>
+</channel>
+<channel id="hands_(2026)">
+<display-name lang="id">Hands (2026)</display-name>
+</channel>
+<channel id="wild_london_(2026)">
+<display-name lang="id">Wild London (2026)</display-name>
+</channel>
+<channel id="state_of_fear_(2026)">
+<display-name lang="id">State of Fear (2026)</display-name>
+</channel>
+<channel id="kamen_rider_eins_with_girls_remix_(2026)">
+<display-name lang="id">Kamen Rider Eins with Girls Remix (2026)</display-name>
+</channel>
+<channel id="vaa_vaathiyaar_(2026)">
+<display-name lang="id">Vaa Vaathiyaar (2026)</display-name>
+</channel>
+<channel id="ttt:_thalaivar_thambi_thalaimaiyil_(2026)">
+<display-name lang="id">TTT: Thalaivar Thambi Thalaimaiyil (2026)</display-name>
+</channel>
+<channel id="parasakthi_(2026)">
+<display-name lang="id">Parasakthi (2026)</display-name>
+</channel>
+<channel id="mana_shankaravaraprasad_garu_(2026)">
+<display-name lang="id">Mana ShankaraVaraprasad Garu (2026)</display-name>
+</channel>
+<channel id="ikkis_(2026)">
+<display-name lang="id">Ikkis (2026)</display-name>
+</channel>
+<channel id="the_raja_saab_(2026)">
+<display-name lang="id">The Raja Saab (2026)</display-name>
+</channel>
+<channel id="the_wrecking_crew_(2026)">
+<display-name lang="id">The Wrecking Crew (2026)</display-name>
+</channel>
+<channel id="speed_faster_(2026)">
+<display-name lang="id">Speed Faster (2026)</display-name>
+</channel>
+<channel id="greenland_2:_migration_(2026)">
+<display-name lang="id">Greenland 2: Migration (2026)</display-name>
+</channel>
+<channel id="killer_whale_(2026)">
+<display-name lang="id">Killer Whale (2026)</display-name>
+</channel>
+<channel id="the_rip_(2026)">
+<display-name lang="id">The Rip (2026)</display-name>
+</channel>
+<channel id="the_internship_(2026)">
+<display-name lang="id">The Internship (2026)</display-name>
+</channel>
+<channel id="papa_zola:_the_movie_(2025)">
+<display-name lang="id">Papa Zola: The Movie (2025)</display-name>
+</channel>
+<channel id="agent_zero_(2025)">
+<display-name lang="id">Agent Zero (2025)</display-name>
+</channel>
+
+<programme start="20260324071312 +0700"
+           stop="20260324091312 +0700"
+           channel="war_machine_(2026)">
+<title lang="id">War Machine (2026)</title>
+<desc lang="id">Di "War Machine" (2026), para rekrutan terakhir dari pelatihan operasi khusus yang ekstrem harus menghadapi ancaman mengerikan dari luar angkasa. Mereka terjebak dalam pertempuran survival melawan musuh yang tidak terduga, memicu aksi seru dan penuh teka-teki. Apakah mereka bisa bertahan?</desc>
+</programme>
+
+<programme start="20260324091312 +0700"
+           stop="20260324111312 +0700"
+           channel="the_house_on_haunted_grounds_(2026)">
+<title lang="id">The House on Haunted Grounds (2026)</title>
+<desc lang="id">Dalam film The House on Haunted Grounds (2026), sekelompok teman berani memasuki rumah angker yang sarat sejarah kerasukan dan pembunuhan. Namun, mereka tidak pernah keluar, tetapi rekaman mereka tetap ada. Apa yang terjadi di dalam rumah itu? Penasaran dan takut, kita harus menyaksikan sendiri untuk mengetahui apa yang terjadi.</desc>
+</programme>
+
+<programme start="20260324111312 +0700"
+           stop="20260324131312 +0700"
+           channel="subedaar_(2026)">
+<title lang="id">Subedaar (2026)</title>
+<desc lang="id">Dalam film Subedaar (2026), seorang pahlawan perang yang legendaris harus menghadapi musuh baru, bukan lagi di medan perang, melainkan di dalam rumah tangganya sendiri. Ia harus melawan kekerasan dan korupsi yang mengancam keluarga dan komunitasnya. Dengan aksi yang menegangkan dan emosi yang dalam, Subedaar mengisahkan perjuangan seorang pria untuk melindungi yang tersayang dan membela kebenaran. Apakah ia berhasil mengalahkan musuh dalam dan menyelamatkan rumahnya?</desc>
+</programme>
+
+<programme start="20260324131312 +0700"
+           stop="20260324151312 +0700"
+           channel="devagudi_(2026)">
+<title lang="id">Devagudi (2026)</title>
+<desc lang="id">"Devagudi" (2026) adalah film aksi-petualangan-drama yang mengisahkan tiga sahabat masa kecil yang terpisahkan oleh perbedaan kasta dan kesulitan hidup. Namun, kejadian penting mengubah segalanya dan mereka harus bersatu kembali untuk menghadapi tantangan berbahaya dan menemukan kebenaran tentang masa lalunya. Dengan aksi seru dan petualangan penuh risiko, "Devagudi" akan membawa Anda dalam perjalanan emosional yang penuh ketegangan dan persahabatan sejati.</desc>
+</programme>
+
+<programme start="20260324151312 +0700"
+           stop="20260324171312 +0700"
+           channel="bring_the_law_(2026)">
+<title lang="id">Bring the Law (2026)</title>
+<desc lang="id">Di "Bring the Law" (2026), aksi dan ketegangan memuncak saat seorang polisi LA yang terlupakan dipilih untuk memimpin tim tugas melawan sindikat kejahatan lokal. Namun, saat menyelidiki, ia menemukan konspirasi korupsi dalam departemennya sendiri, membuat misinya semakin berat dan berbahaya.</desc>
+</programme>
+
+<programme start="20260324171312 +0700"
+           stop="20260324191312 +0700"
+           channel="the_bluff_(2026)">
+<title lang="id">The Bluff (2026)</title>
+<desc lang="id">Dalam "The Bluff" (2026), aksi petualangan epik di Karibia abad ke-18, seorang wanita misterius bernama Maya harus menghadapi masa lalunya yang tersembunyi ketika pulau yang dilindunginya diserang oleh bajak laut kejam. Dengan keahlian tempur dan ketabahan yang luar biasa, Maya memimpin perlawanan melawan penjajah, membuka rahasia kelam yang mengancam identitasnya. Apakah dia bisa melindungi pulau dan dirinya sendiri?</desc>
+</programme>
+
+<programme start="20260324191312 +0700"
+           stop="20260324211312 +0700"
+           channel="shelter_(2026)">
+<title lang="id">Shelter (2026)</title>
+<desc lang="id">Di Shelter (2026), aksi dan thriller bergabung dalam cerita yang menegangkan. Michael Mason, seorang pria yang hidup menyendiri di sebuah pulau terpencil di Skotlandia, menyelamatkan seorang gadis dari laut. Namun, aksi penyelamatannya itu memicu rangkaian peristiwa berbahaya yang akhirnya mengancam nyawanya. Dengan serangan mendadak ke rumahnya, Michael terpaksa menghadapi masa lalunya yang kelam dan mempertahankan diri untuk bertahan hidup. Apakah dia bisa melindungi diri dan gadis itu dari bahaya yang mengancam?</desc>
+</programme>
+
+<programme start="20260324211312 +0700"
+           stop="20260324231312 +0700"
+           channel="vanaveera_(2026)">
+<title lang="id">Vanaveera (2026)</title>
+<desc lang="id">Di "Vanaveera" (2026), aksi penuh kekerasan dan balas dendam menyambut ketika seorang keturunan klan Vanara kehilangan satu-satunya motor karena direbut oleh seorang Ravana modern untuk kampanye pemilu. Konflik yang awalnya sepele berubah menjadi perjuangan sengit untuk menegakkan harga diri dan martabat.</desc>
+</programme>
+
+<programme start="20260324231312 +0700"
+           stop="20260325011312 +0700"
+           channel="reckless_(2026)">
+<title lang="id">Reckless (2026)</title>
+<desc lang="id">Di "Reckless" (2026), seorang mantan narapidana yang baru saja bebas harus menggunakan kecerdasan dan keberanian untuk mengelabui polisi dan mendapatkan bagiannya dari sebuah aksi perampokan lama. Dengan aksi seru, komedi yang tidak terduga, dan plot yang penuh kejutan, film ini menawarkan petualangan yang menegangkan dan menghibur. Apakah dia bisa mendapatkan apa yang menjadi haknya dan memulai hidup baru?</desc>
+</programme>
+
+<programme start="20260325011312 +0700"
+           stop="20260325031312 +0700"
+           channel="lazarus:_the_awakening_(2026)">
+<title lang="id">Lazarus: The Awakening (2026)</title>
+<desc lang="id">Dalam "Lazarus: The Awakening", seorang vigilante yang dibangkitkan dari kematian berburu imperium narkoba di Jackson. Ia menghadapi seorang kingpin kejam, seorang reporter berani, dan kota yang dikuasai fentanyl. Keadilan berubah menjadi perang.</desc>
+</programme>
+
+<programme start="20260325031312 +0700"
+           stop="20260325051312 +0700"
+           channel="one_mile_(2026)">
+<title lang="id">One Mile (2026)</title>
+<desc lang="id">Dalam "One Mile" (2026), seorang mantan operatif pasukan khusus harus menggunakan seluruh kemampuan bertahan hidupnya untuk menyelamatkan putrinya yang diculik oleh komunitas kejam. Dengan balas dendam yang menghantui, dia melancarkan misi untuk memburu dan menghancurkan mereka, membawa putrinya pulang dalam aksi penuh adrenalin yang menegangkan.</desc>
+</programme>
+
+<programme start="20260325051312 +0700"
+           stop="20260325071312 +0700"
+           channel="chatha_pacha_(2026)">
+<title lang="id">Chatha Pacha (2026)</title>
+<desc lang="id">Di film Chatha Pacha (2026), sekelompok orang tidak biasa di Fort Kochi bersatu untuk membentuk grup gulat. Mereka menghadapi persaingan internal dan pertarungan lucu saat tumbuh untuk mengatasi hambatan lebih besar. Dengan aksi, komedi, dan drama, mereka menuju kesuksesan.</desc>
+</programme>
+
+<programme start="20260325071312 +0700"
+           stop="20260325091312 +0700"
+           channel="hellfire_(2026)">
+<title lang="id">Hellfire (2026)</title>
+<desc lang="id">Di film Hellfire (2026), seorang petualang misterius tiba di kota kecil yang dikuasai oleh bos kejam. Ia kemudian memutuskan untuk melawan bos tersebut dan membebaskan warga dari cengkeramannya. Aksi penuh adrenalin dan ketegangan menghadang, membuat penonton penasaran dengan nasib kota dan sang pahlawan. Apakah petualang tersebut berhasil membebaskan kota?</desc>
+</programme>
+
+<programme start="20260325091312 +0700"
+           stop="20260325111312 +0700"
+           channel="mercy_(2026)">
+<title lang="id">Mercy (2026)</title>
+<desc lang="id">Di masa depan yang tak terlalu jauh, seorang detektif dituduh membunuh istrinya sendiri. Dengan waktu hanya 90 menit, ia harus membuktikan ketidakbersalahannya di hadapan hakim AI canggih. Teknologi canggih ini mampu menganalisis semua bukti, tapi apakah keadilan masih bisa ditegakkan?</desc>
+</programme>
+
+<programme start="20260325111312 +0700"
+           stop="20260325131312 +0700"
+           channel="hands_(2026)">
+<title lang="id">Hands (2026)</title>
+<desc lang="id">Dalam dunia bawah tanah yang penuh aksi, pasangan petarung elite harus menghadapi musuh baru yang kejam dan licik. Mereka berjuang untuk membuktikan kehebatan mereka, namun harus memilih antara kemenangan dan balas dendam. Apakah mereka bisa mengalahkan musuh dan memenangkan pertarungan, ataukah akan terjebak dalam lingkaran kekerasan? Tonton "Hands" (2026) untuk menemukan jawabannya!</desc>
+</programme>
+
+<programme start="20260325131312 +0700"
+           stop="20260325151312 +0700"
+           channel="wild_london_(2026)">
+<title lang="id">Wild London (2026)</title>
+<desc lang="id">"Wild London" (2026) adalah film dokumenter yang mengejutkan, membawa penonton dalam perjalanan menakjubkan ke jantung kota London. Sir David Attenborough mengungkap kehidupan liar yang unik di kota kelahirannya, dari rusa yang hidup di tengah kota hingga burung Peregrine yang bersarang di atap gedung. Dengan kamera yang canggih, film ini memperlihatkan betapa alam dapat bertahan dan berkembang di tengah kehidupan urban. Penasaran dengan kehidupan liar di London? Saksikan "Wild London" dan temukan keajaiban alam di kota yang paling hijau di dunia!</desc>
+</programme>
+
+<programme start="20260325151312 +0700"
+           stop="20260325171312 +0700"
+           channel="state_of_fear_(2026)">
+<title lang="id">State of Fear (2026)</title>
+<desc lang="id">Dalam "State of Fear" (2026), aksi kriminal dan dramatis terjadi ketika anggota organisasi rahasia menghadapi krisis besar. Pemimpin utama dipindahkan ke penjara maksimum, sementara Elisa, putri pendiri Edson yang berusia 18 tahun, diculik oleh polisi korup. Bibinya, Cristina, nekat melakukan penyelamatan, tapi faksi memerintahkan "Salve Geral" - tindakan terdesak yang berisiko tinggi. Apakah Elisa akan selamat?</desc>
+</programme>
+
+<programme start="20260325171312 +0700"
+           stop="20260325191312 +0700"
+           channel="kamen_rider_eins_with_girls_remix_(2026)">
+<title lang="id">Kamen Rider Eins with Girls Remix (2026)</title>
+<desc lang="id">Kamen Rider Eins with Girls Remix menghadirkan kolaborasi epik yang mempertemukan karakter utama dari seri terbaru, Kamen Rider Eins, dengan para pahlawan wanita legendaris dari era Reiwa dan Heisei dalam sebuah misi penyelamatan lintas dimensi. Cerita dimulai ketika sebuah anomali ruang-waktu mengancam keberadaan para Rider wanita, memaksa mereka untuk bersatu dan menggabungkan kekuatan unik masing-masing guna menghadapi musuh bersama yang memanipulasi memori masa lalu. Inti cerita menyoroti kekuatan persahabatan, emansipasi, dan warisan semangat pahlawan yang tidak mengenal batas gender dalam pertempuran untuk melindungi masa depan. Konflik ini menguji kerja sama tim mereka saat mereka harus mengatasi perbedaan latar belakang dan gaya bertarung demi menjaga keseimbangan dunia. Dapatkah aliansi para pahlawan wanita ini memberikan pukulan terakhir yang menentukan sebelum seluruh garis waktu terhapus selamanya?</desc>
+</programme>
+
+<programme start="20260325191312 +0700"
+           stop="20260325211312 +0700"
+           channel="vaa_vaathiyaar_(2026)">
+<title lang="id">Vaa Vaathiyaar (2026)</title>
+<desc lang="id">Dalam film Vaa Vaathiyaar (2026), seorang penggemar berat aktor legendaris MGR, membesarkan cucunya seperti reinkarnasi MGR. Namun, apakah cucunya tumbuh seperti idola tersebut? Konflik muncul ketika cucunya berbeda, menyimpang dari idealisme kakeknya. Aksi komedi dan fantasi bergabung dalam petualangan lucu dan menegangkan ini. Penasaran, bagaimana kelanjutan kisahnya?</desc>
+</programme>
+
+<programme start="20260325211312 +0700"
+           stop="20260325231312 +0700"
+           channel="ttt:_thalaivar_thambi_thalaimaiyil_(2026)">
+<title lang="id">TTT: Thalaivar Thambi Thalaimaiyil (2026)</title>
+<desc lang="id">Dalam film TTT: Thalaivar Thambi Thalaimaiyil (2026), seorang pejabat desa bernama Thalaivar terjebak dalam konflik keluarga yang memanas saat menghadiri sebuah pernikahan. Konflik ini memunculkan persaingan dan dendam lama, menguji kepemimpinannya untuk menenangkan situasi. Dengan aksi menegangkan, komedi yang mengocok perut, dan drama yang menyentuh, film ini siap menghibur sekaligus menginspirasi. Apakah Thalaivar berhasil memimpin dan menyelesaikan konflik keluarga tersebut?</desc>
+</programme>
+
+<programme start="20260325231312 +0700"
+           stop="20260326011312 +0700"
+           channel="parasakthi_(2026)">
+<title lang="id">Parasakthi (2026)</title>
+<desc lang="id">"Parasakthi" (2026) adalah film aksi sejarah yang mengisahkan pemberontakan menentang penetapan bahasa Hindi di Tamil Nadu pada 1965. Dengan aksi memukau dan drama yang menyentuh, film ini menghidupkan kembali perjuangan rakyat Tamil Nadu melawan penindasan bahasa. Tonton bagaimana kepemimpinan dan keberanian menginspirasi perubahan!</desc>
+</programme>
+
+<programme start="20260326011312 +0700"
+           stop="20260326031312 +0700"
+           channel="mana_shankaravaraprasad_garu_(2026)">
+<title lang="id">Mana ShankaraVaraprasad Garu (2026)</title>
+<desc lang="id">Mana ShankaraVaraprasad Garu (2026) adalah komedi aksi yang menyegarkan. Seorang petugas keamanan harus melindungi istri dan anak-anaknya yang terpisah dari seorang polisi pembalas dendam. Ini menjadi kesempatan untuk memperbaiki hubungan mereka setelah enam tahun berlalu. Dengan aksi seru dan komedi yang mengocok perut, film ini menjanjikan tawa dan tegang!</desc>
+</programme>
+
+<programme start="20260326031312 +0700"
+           stop="20260326051312 +0700"
+           channel="ikkis_(2026)">
+<title lang="id">Ikkis (2026)</title>
+<desc lang="id">"Ikkis" (2026) mengisahkan keberanian Second Lieutenant Arun Khetarpal, penerima Param Vir Chakra termuda India. Dalam perang melawan Pakistan, Arun menunjukkan kegagahan yang luar biasa. Tonton kisah nyata yang penuh aksi, drama, dan sejarah ini untuk merasakan keberanian sejati!</desc>
+</programme>
+
+<programme start="20260326051312 +0700"
+           stop="20260326071312 +0700"
+           channel="the_raja_saab_(2026)">
+<title lang="id">The Raja Saab (2026)</title>
+<desc lang="id">Dalam "The Raja Saab" (2026), seorang pangeran muda bernama Arjun harus memilih antara warisan kerajaan dan semangat pemberontakannya. Ketika dia naik takhta, Arjun memperkenalkan aturan baru yang tak terduga, memadukan kekuasaan dengan kebebasan. Dengan aksi, komedi, dan fantasi yang memukau, film ini membawa penonton dalam petualangan penuh kejutan dan cinta. Apakah Arjun berhasil mempertahankan takhtanya atau terjebak dalam konflik yang menakutkan?</desc>
+</programme>
+
+<programme start="20260326071312 +0700"
+           stop="20260326091312 +0700"
+           channel="the_wrecking_crew_(2026)">
+<title lang="id">The Wrecking Crew (2026)</title>
+<desc lang="id">Dalam "The Wrecking Crew" (2026), dua saudara tiri, Jonny dan James, dipertemukan kembali setelah kematian misterius ayah mereka. Mereka bergabung dalam sebuah petualangan penuh aksi dan komedi untuk mencari kebenaran, tetapi malah menemukan konspirasi yang mengancam keluarga mereka. Dengan aksi seru dan lelucon yang tak terduga, mereka harus bekerja sama untuk mengungkap kebenaran dan menyelamatkan keluarga mereka dari kehancuran. Apakah mereka berhasil? Tonton "The Wrecking Crew" untuk mengetahui!</desc>
+</programme>
+
+<programme start="20260326091312 +0700"
+           stop="20260326111312 +0700"
+           channel="speed_faster_(2026)">
+<title lang="id">Speed Faster (2026)</title>
+<desc lang="id">Dalam "Speed Faster" (2026), Ace dan tim balap jalanan elitnya terjebak dalam misi berbahaya oleh kelompok bayangan. Setelah bergabung dengan Four Amigos, mereka bekerja untuk Gereja Pembunuh pada tugas mustahil, namun mereka segera menyadari bahwa kegagalan adalah rencana sejak awal. Pengkhianatan dan pertarungan kelangsungan hidup pun terjadi, mengancam nyawa mereka. Apakah Ace dan timnya bisa bertahan?</desc>
+</programme>
+
+<programme start="20260326111312 +0700"
+           stop="20260326131312 +0700"
+           channel="greenland_2:_migration_(2026)">
+<title lang="id">Greenland 2: Migration (2026)</title>
+<desc lang="id">Greenland: Migration merupakan sekuel langsung yang mengambil latar beberapa tahun setelah keluarga Garrity berhasil selamat dari hantaman komet Clarke di bunker Greenland. Alur cerita mengikuti perjalanan mereka keluar dari perlindungan bawah tanah untuk menghadapi dunia yang telah berubah total menjadi tanah tandus yang membeku dan berbahaya. Inti cerita bergerak pada upaya keluarga Garrity melintasi sisa-sisa be<display-name>The Lost Chapter: Yuki's Revenge (2025)</display-name>
 </channel>
 <channel id="Trap House (2025)">
 <display-name>Trap House (2025)</display-name>
